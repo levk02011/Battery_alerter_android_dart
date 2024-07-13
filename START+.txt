@@ -1,0 +1,1 @@
+перейменувати dart_tool to .dart_tool
